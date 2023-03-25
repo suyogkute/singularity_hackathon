@@ -1,0 +1,4 @@
+transformers
+Flask
+Pillow
+Flask-Cors
