@@ -32,3 +32,9 @@ this will run the POST request backend API at endpoint 'infer_image' on localhos
 
 Open the app url - http://localhost:8000/ in browser and upload sample image from directory 'img_data'. 
 Please make sure the Sample image or test image to be uploaded need to be present in the directory 'img_data'.
+
+
+See below demo UI image::
+
+<img width="945" alt="sing_hack_demo" src="https://user-images.githubusercontent.com/25390594/227732582-b96af906-e717-40e8-8ed7-c2b8044df826.png">
+
