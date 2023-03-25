@@ -1,7 +1,8 @@
 # singularity_hackathon
 
-Food Recognition Model
+Rate My Snack Application
 
+----------------------------------------------------------------------------------------
 
 This is a web app that allows to accept food images and help identify type of food, it's confidence for type identification,
 Nutritional category(Green/Yellow/Red) and some info about that food-recipe.
